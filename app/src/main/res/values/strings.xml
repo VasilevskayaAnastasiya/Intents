@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="open_website">Open website</string>
+    <string name="open_location">Open location</string>
+    <string name="https_google_com">https://google.com</string>
+    <string name="minsk">Minsk</string>
+    <string name="share_text">Share text</string>
+    <string name="sharing_text">Sharing text</string>
+</resources>

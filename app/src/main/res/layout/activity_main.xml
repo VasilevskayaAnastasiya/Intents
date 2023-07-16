@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/edit_website"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/https_google_com"/>
+    <Button
+        android:id="@+id/btn_open_website"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/open_website"/>
+
+    <EditText
+        android:id="@+id/edit_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/minsk"/>
+    <Button
+        android:id="@+id/btn_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/open_location"/>
+
+    <EditText
+        android:id="@+id/edit_share_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sharing_text"/>
+    <Button
+        android:id="@+id/btn_share_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/share_text"/>
+
+</LinearLayout>
